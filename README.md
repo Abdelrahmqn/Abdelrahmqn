@@ -2,5 +2,5 @@
   <p>    - 👀 I’m interested in C, Python</p>
   <p>    - 🌱 I’m currently learning Nodejs / python</p>
   <p>    - 📫 How to reach me ...</p>
-  <p>    - 😄 Pronouns: Hi/Him</p>
+  <p>    - 😄 Pronouns: He/Him</p>
 
