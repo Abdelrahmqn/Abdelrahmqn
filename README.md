@@ -3,5 +3,4 @@
   <p>    - 🌱 I’m currently learning Nodejs / python</p>
   <p>    - 📫 How to reach me ...</p>
   <p>    - 😄 Pronouns: Hi/Him</p>
-  <p>    - : Don't Gaze long enough into an abyss.</p>
 
